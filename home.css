@@ -1,0 +1,21 @@
+/* Everything in here is a comment code*/
+
+body
+{
+    /*
+    background-color: crimson ;*/
+    background-image:url("img/wario.jpg");
+    backgrounf-repeat: no-repeat;
+    background-size: cover;
+}
+
+h4
+{
+    color: magenta;
+}
+/* This is how you style a specific section of the page that has an ID= usind the hashtag # */
+#textEnhance
+{
+    color: rebeccapurple;
+    background-image: linear-gradient(red,yellow);
+}
